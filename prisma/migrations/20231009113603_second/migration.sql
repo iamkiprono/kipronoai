@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Post" ADD COLUMN     "lentgh" INTEGER NOT NULL DEFAULT 0;
